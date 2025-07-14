@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Salma Feisal"
-intro = "Radio and TV Departement - Mass Communication"
+intro = "Radio and TV Department - Mass Communication"
 description = "Leading the charge at [YallaKora](https://incirclemedia.com)"
 authorimage = "salma2.jpg"
 dateformat = "Jan 2, 2006"
