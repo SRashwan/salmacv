@@ -1,6 +1,6 @@
 {
-    "name": "hugo-goa",
-    "short_name": "goa",
+    "name": "salmafeisal",
+    "short_name": "salmafeisal",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -15,5 +15,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "standalone",
+    "start_url" :"https://srashwan.github.io/salmacv/"
 }
