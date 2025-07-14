@@ -69,3 +69,6 @@ url = "about/"
 ##identifier = "projects"
 ##weight = 300
 ##url = "projects/"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
